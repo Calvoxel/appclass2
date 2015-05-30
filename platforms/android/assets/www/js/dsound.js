@@ -29,7 +29,6 @@ function showAccel(acceleration) {
     showt.innerText = acceleration.timestamp.toString();
 };
 
-
 function showAccelError() {
     alert('onError!');
 };
